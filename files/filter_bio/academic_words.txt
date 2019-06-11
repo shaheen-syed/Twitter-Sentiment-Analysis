@@ -1,0 +1,430 @@
+actuary
+actuaries
+operations research analyst
+operations research analysts
+political anthropologist
+political anthropologists
+anthropologist
+anthropologists
+archaeologist
+archaeologists
+archeologist
+archeologists
+research archeologist
+research archeologists
+astrobiologist
+astrobiologists
+astronomer
+astronomers
+astrophysicist
+astrophysicists
+bacteriologist
+bacteriologists
+biochemist
+biochemists
+physical biochemist
+physical biochemists
+clinical biochemist
+clinical biochemists
+bioinformatician
+bioinformaticians
+marine biologist
+marine biologists
+molecular biologist
+molecular biologists
+evolutionary biologist
+evolutionary biologists
+biologist
+biologists
+wildlife biologist
+wildlife biologists
+biophysicist
+biophysicists
+biopsychologist
+biopsychologists
+biostatistician
+biostatisticians
+biotechnologist
+biotechnologists
+botanist
+botanists
+biological chemist
+biological chemists
+atmospheric chemist
+atmospheric chemists
+organic chemist
+organic chemists
+analytical chemist
+analytical chemists
+inorganic chemist
+inorganic chemists
+physical chemist
+physical chemists
+chemist
+chemists
+climatologist
+climatologists
+criminologist
+criminologists
+crystallographer
+crystallographers
+demographer
+demographers
+ecologist
+ecologists
+econometrician
+econometricians
+economist
+economists
+political economist
+political economists
+embryologist
+embryologists
+entomologist
+entomologists
+epidemiologist
+epidemiologists
+ethnologist
+ethnologists
+ethonoarcheologist
+ethonoarcheologists
+genealogist
+genealogists
+geneticist
+geneticists
+geochemist
+geochemists
+geodesist
+geodesists
+geographer
+geographers
+geologist
+geologists
+geomorphologist
+geomorphologists
+geophysicist
+geophysicists
+geoscientist
+geoscientists
+geropsychologist
+geropsychologists
+glaciologist
+glaciologists
+herpetologist
+herpetologists
+historian
+historians
+historiographer
+historiographers
+horticulturist
+horticulturists
+hydrogeologist
+hydrogeologists
+hydrologist
+hydrologists
+ichthyologist
+ichthyologists
+immunochemist
+immunochemists
+immunologist
+immunologists
+lepidopterist
+lepidopterists
+limnologist
+limnologists
+linguist
+linguists
+malariologist
+malariologists
+mammalogist
+mammalogists
+mathematician
+mathematicians
+meteorologist
+meteorologists
+microbiologist
+microbiologists
+mineralogist
+mineralogists
+mycologist
+mycologists
+neuropsychologist
+neuropsychologists
+neuroscientist
+neuroscientists
+nutritionist
+nutritionists
+oceanographer
+oceanographers
+ornithologist
+ornithologists
+osteologist
+osteologists
+paleobotanist
+paleobotanists
+paleontologist
+paleontologists
+pathologist
+pathologists
+petrologist
+petrologists
+pharmacoepidemiologist
+pharmacoepidemiologists
+pharmacologist
+pharmacologists
+physicist
+physicists
+nuclear physicist
+nuclear physicists
+applied physicist
+applied physicists
+health physicist
+health physicists
+molecular physicist
+molecular physicists
+plant physiologist
+plant physiologists
+physiologist
+physiologists
+protohistorian
+protohistorians
+developmental psychologist
+developmental psychologists
+psychologist
+psychologists
+educational psychologist
+educational psychologists
+vocational psychologist
+vocational psychologists
+management psychologist
+management psychologists
+evolutionary psychologist
+evolutionary psychologists
+experimental psychologist
+experimental psychologists
+clinical psychologist
+clinical psychologists
+forensic psychologist
+forensic psychologists
+health psychologist
+health psychologists
+comparative psychologist
+comparative psychologists
+counseling psychologist
+counseling psychologists
+industrial and organizational psychologist
+industrial and organizational psychologists
+school psychologist
+school psychologists
+human resources psychologist
+human resources psychologists
+behavioral psychologist
+behavioral psychologists
+child psychologist
+child psychologists
+engineering psychologist
+engineering psychologists
+social psychologist
+social psychologists
+sports psychologist
+sports psychologists
+industrial-organizational psychologist
+industrial-organizational psychologists
+abnormal psychologist
+abnormal psychologists
+medical psychologist
+medical psychologists
+sport psychologist
+sport psychologists
+cognitive psychologist
+cognitive psychologists
+psychopharmacologist
+psychopharmacologists
+psychophysicist
+psychophysicists
+rheologist
+rheologists
+materials scientist
+materials scientists
+earth scientist
+earth scientists
+political scientist
+political scientists
+library scientist
+library scientists
+mathematical scientist
+mathematical scientists
+arboreal scientist
+arboreal scientists
+physical scientist
+physical scientists
+soil scientist
+soil scientists
+computer research scientist
+computer research scientists
+environmental scientist
+environmental scientists
+conservation scientist
+conservation scientists
+management scientist
+management scientists
+biological scientist
+biological scientists
+food scientist
+food scientists
+space scientist
+space scientists
+plant scientist
+plant scientists
+agricultural scientist
+agricultural scientists
+life scientist
+life scientists
+animal scientist
+animal scientists
+military scientist
+military scientists
+social scientist
+social scientists
+medical scientist
+medical scientists
+information scientist
+information scientists
+computer scientist
+computer scientists
+atmospheric scientist
+atmospheric scientists
+communication scientist
+communication scientists
+optical scientist
+optical scientists
+information research scientist
+information research scientists
+seismologist
+seismologists
+sociologist
+sociologists
+family sociologist
+family sociologists
+rural sociologist
+rural sociologists
+statistician
+statisticians
+stratigrapher
+stratigraphers
+toxicologist
+toxicologists
+virologist
+virologists
+volcanologist
+volcanologists
+zoologist
+researcher
+researchers
+scientist
+scientists
+hebraist
+protozoologist
+bibliotist
+neurobiologist
+microscopist
+malacologist
+paleographer
+economics profession
+neurolinguist
+cosmographer
+scholar
+naturalist
+radiobiologist
+ethologist
+taxonomist
+semanticist
+health professional
+grammarian
+postdoc
+arithmetician
+monetarist
+sociolinguist
+cytologist
+cartographer
+geometer
+diagnostician
+social anthropologist
+psephologist
+microeconomist
+probability theorist
+ethnographer
+petroleum geologist
+phytochemist
+cosmologist
+parapsychologist
+radiologic technologist
+nuclear chemist
+algebraist
+cognitive scientist
+pomologist
+sociobiologist
+enzymologist
+principal investigator
+number theorist
+macroeconomist
+cytogeneticist
+etiologist
+boffin
+phonologist
+psycholinguist
+research worker
+phonetician
+acoustician
+vivisectionist
+surveyor
+art historian
+dietician
+trigonometrician
+pharmacist
+lexicographer
+anatomist
+behaviorist
+egyptologist
+computational linguist
+research
+university
+higher education
+PhD 
+ PhD
+PhD student
+PhD candidate
+professor
+academic
+college
+sciences
+lecturer
+graduate
+faculty
+educator
+researching
+undergraduate
+doctoral
+academy
+engineer
+ph.d.
+education
+neuroscience
+academics
+philosopher
+humanities
+postgraduate
+post-doc
+post doc
+mathematics
+anthropology
+studies
+health science
+business school
+scientific
+psychiatrist
+science
+ prof 
+ prof. 
+postgrad
+student
