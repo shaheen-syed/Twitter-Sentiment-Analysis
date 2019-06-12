@@ -5,8 +5,8 @@ Interdisciplinary Optimism? Sentiment Analysis of Twitter Data
 
 It contains scripts to:
 - search for tweets on which you want to perform sentiment analysis (referred to as target tweets)
-- parsing of tweets collected from the Twitter API
-- preprocessing of the tweets
+- parsing of target tweets collected from the Twitter API
+- preprocessing of the target tweets
 - collect training tweets through the Twitter API that originate from several online repositories and are labeled by human annotators
 - preprocessing of the training tweets
 - create different machine learning classification models including grid search for hyper-parameter tuning
@@ -82,7 +82,7 @@ python 3_preprocess_target_tweets.py
 
 This script uses labeled tweets that will serve as training tweets to create a machine learning classifier. Here we utilize labeled datasets from online repositories. Such labeled datasets have been labeled by human annotators for positive, negative, and neutral sentiment class. Note that the Twitter terms of service do not permit direct distribution of tweet content and so tweet IDs (references to the original tweets), with their respective sentiment labels, are often made available without the original tweet text and associated meta-data. These datasets can be found in the folder 'files/training_tweets'. As a consequence, we will have to use the Twitter API to retrieve the full tweet content, the tweet text, and the meta-data, by searching for the tweet ID. Some tweets will appear not to be available from the Twitter API and this, in some cases, results in the training datasets having fewer tweets than originally included in the published datasets.
 
-We provide tweets IDs and labeled for the following datasets:
+We provide tweets IDs and labels for the following datasets:
 
 ![ScreenShot](/files/readme/training_tweets.png)
 
