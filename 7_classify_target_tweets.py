@@ -4,7 +4,17 @@
 	Created by:	Shaheen Syed
 	Date: 		July 2018
 
-	Use the created machine learning classifier to infer the sentiment class of the target tweets.
+	Infer Sentiment Class of Target Tweets
+	--------------------------------------
+	
+	This script will use one of the created machine learning classifiers from step 6 and infer the sentiment class label for the target tweets. Any created model can be used, but preferably the model that has the highest F1 score should be used. It will infer a positive, negative, or neutral class label for the target tweets. In addition, it creates a labels.pkl file that contains a matrix with tweet_id, label, and tweet_type. Coded as follows:
+
+	label : negative = 0, neutral = 1, positive = 2
+	tweet_type : 0 = interdisciplinary, 1 = transdisciplinary, 2 = multidisciplinary
+
+
+	How to run:
+	python 7_classify_target_tweets.py
 
 """
 

@@ -4,6 +4,11 @@
 	Created by:	Shaheen Syed
 	Date: 		July 2018
 
+	Step 5 - Preprocess the Training Tweets
+	----------------------------------------
+
+	This script is similar to the script in step 3, only that it performs preprocessing on the training tweets. Both the target tweets and training tweets are preprocessed similarly. However, the target tweets here are not filtered for non-English text (we already know they are all English), are not filtered for retweets, and are not filtered for occuptation.
+
 	Tweeting, the process of publishing a tweet, proceeds in the form of free text, often in combination with special characters, symbols, emoticons, and emoji. This, in combination with a character limit, make tweeters creative
 	and concise in their writing, favoring brevity over readability to convey their message---even more so with the 140 characters limit. Thus tweet data is highly idiosyncratic and several preprocessing steps were necessary 
 	(described below) to make the dataset suitable for sentiment analysis. 
@@ -50,6 +55,10 @@
 		Numbers and punctuation symbols were removed, as they typically convey no specific sentiment. Numbers that were used to replace characters or syllables of words were retained, such in the case of 'see you l8er'. We chose not to 
 		convert slang and abbreviations to their full word expressions, such as brb for 'be right back' or 'ICYMI' for 'in case you missed it'. The machine learning model, described later, would correctly handle most common uses of slang, 
 		with the condition that they are part of the training data. As a result, slang that is indicative of a specific sentiment class (e.g. positive or negative) would be assigned appropriate weights or probabilities during model creation.
+
+	How to run:
+	python 5_preprocess_training_tweets.py
+
 """
 
 # packages and modules

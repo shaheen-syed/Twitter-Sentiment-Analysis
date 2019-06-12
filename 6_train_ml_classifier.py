@@ -4,6 +4,16 @@
 	Created by:	Shaheen Syed
 	Date: 		July 2018
 
+	Step 6 - Train Several Machine Learning Classifiers
+	---------------------------------------------------
+
+	This script will train various machine learning classifiers to predict positive, negative, and neutral sentiment classes on the training tweets. The created ML models can then 
+	be used to predict sentiment classes on the target tweets. The script can easily be adjusted to allow for other machine learning classifiers and parameter/hyper-parameter 
+	values for grid-search. 
+
+	How to run:
+	python 6_train_ml_classifier.py
+
 """
 
 # packages and modules

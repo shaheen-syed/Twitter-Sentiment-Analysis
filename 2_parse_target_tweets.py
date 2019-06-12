@@ -4,8 +4,14 @@
 	Created by:	Shaheen Syed
 	Date: 		July 2018
 
-	Parse Target tweets
-		Read raw tweets from txt file and save to database
+	Step 2 – Parse target tweets
+	----------------------------
+	This script reads all the .txt files created while running the script in step 1, and parses out the individual tweets and relevant fields. It then saves each tweet as a 
+	document in a MongoDB database. The script knows if tweets have already been inserted previously, so there is no need to check for this.
+
+	How to run:
+	python 2_parse_target_tweets.py
+	
 """
 
 # packages and modules

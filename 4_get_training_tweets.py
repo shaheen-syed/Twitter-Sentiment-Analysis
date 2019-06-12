@@ -4,10 +4,27 @@
 	Created by:	Shaheen Syed
 	Date: 		July 2018
 
-	Collect training tweets to build a machine learning classifier for sentiment analysis.
+	Step 4 - Get Training Tweets
+	----------------------------
+	
+	This script uses labeled tweets that will serve as training tweets to create a machine learning classifier. Here we utilize labeled datasets from online repositories. Such labeled datasets have been labeled by human annotators for positive, negative, and neutral sentiment class. Note that the Twitter terms of service do not permit direct distribution of tweet content and so tweet IDs (references to the original tweets), with their respective sentiment labels, are often made available without the original tweet text and associated meta-data. These datasets can be found in the folder 'files/training_tweets'. As a consequence, we will have to use the Twitter API to retrieve the full tweet content, the tweet text, and the meta-data, by searching for the tweet ID. Some tweets will appear not to be available from the Twitter API and this, in some cases, results in the training datasets having fewer tweets than originally included in the published datasets.
 
-	The tweets are from online repositories and since Twitters prevents the distribution of the tweet content itself, this script uses the tweet ID and collects the full content of the tweet
-	by using the twitter API. Unfortunately, we can't retrieve the full tweet content by sending in a list of tweet IDs, thus, we have to collect them one-by-one.
+	The description of the datasets can be found below.
+
+	### What do the switches do
+
+	There are 7 switches that can be turned on or off (by setting the value to True or False). Each switch will collect the tweets from the Twitter API from a specific training dataset.
+
+	*	get_sanders_tweets = [True|False]
+	*	get_semeval_tweets = [True|False]
+	*	get_clarin13_tweets = [True|False]
+	*	get_hcr_tweets = [True|False]
+	*	get_omd_tweets = [True|False]
+	*	get_stanford_test_tweets = [True|False]
+	*	get_manual_labeled_tweets = [True|False]
+
+	How to run:
+	python 4_get_training_tweets.py
 
 """
 

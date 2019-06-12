@@ -4,8 +4,20 @@
 	Created by:	Shaheen Syed
 	Date: 		July 2018
 
-	Use a set of search queries to collect tweets (up to 7 days old) matching the search query. The tweets that we collect here are referred to as target tweets, since they are our main interest for the sentiment analysis.
+	Step 1 – Search for target tweets
+	-------------------
 
+	The tweets of interest are referred to as target tweets. That is, tweets for which we want to infer a sentiment class. This script uses the Twitter API to collect tweets 
+	that match a specific search query. Note that tweets are only available within the search API if not older than 7 days. To create a dataset, execute once every 7 
+	days, either manually or by using something like a cronjob. The collected target tweets will be saved on disk. It will furthermore be used to only retrieve the delta 
+	of new tweets since the last time this script was run.
+
+	Creates files in the folder files/target_tweets
+
+	Before running, set the twitter key and secret, see https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.html
+
+	How to run?
+	python 1_search_target_tweets.py
 """
 
 # packages and modules

@@ -4,11 +4,24 @@
 	Created by:	Shaheen Syed
 	Date: 		July 2018
 
-	Various plots
+	Step 8 - Plot Results
+	----------------------
+
+	Create various plots
 	- Donutplot showing sentiments per mode of research (int./trans./mult.)
 	- Sentiment over time shown as a stacked bar chart per week
 	- Sentiment by occuptation, only showing the most positive occupations
 	- Bar chart showing the frequency of user tags, @, and URLs for each sentiment and each mode of research
+
+	There are 4 switches that can be turned on or off (by setting their value to True or False). Each switch will create the corresponding plot.
+
+	*	create_donot_plot = [True|False]
+	*	create_time_stacked_bar_plot = [True|False]
+	*	create_sentiment_by_occupation = [True|False]
+	*	create_twitter_tokens_bar_plot = [True|False]
+
+	How to run:
+	python 8_plot_results.py
 
 """
 
