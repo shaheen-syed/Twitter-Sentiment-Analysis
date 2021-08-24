@@ -1,7 +1,12 @@
 # Full workflow to perform sentiment analysis on Twitter data.
 
 Code belonging to the following scientific paper:
-Interdisciplinary Optimism? Sentiment Analysis of Twitter Data
+
+**Interdisciplinary optimism? Sentiment analysis of Twitter data**
+Charlotte Teresa Weber and Shaheen Syed
+Published:31 July 2019
+https://doi.org/10.1098/rsos.190473
+
 
 It contains scripts to:
 - search for tweets on which you want to perform sentiment analysis (referred to as target tweets)
